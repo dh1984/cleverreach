@@ -1,0 +1,19 @@
+{
+    "name": "kirchbergerknorr/cleverreach",
+    "description": "Product Attachments",
+    "keywords": ["magento", "cleverreach", "newsletter"],
+    "homepage": "http://www.cleverreach.de/frontend/magento_extension.php",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Cleverreach"
+        },
+        {
+            "name": "Susanne Krieg",
+            "email": "sk@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
