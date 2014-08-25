@@ -1,6 +1,6 @@
 app/etc/modules/CleverReach_CrConnect.xml app/etc/modules/CleverReach_CrConnect.xml
 app/etc/modules/Conlabz_CrConnect.xml app/etc/modules/Conlabz_CrConnect.xml
-app/code/community/Conlabz/CrConnect/* app/code/local/Conlabz/CrConnect/
+app/code/community/Conlabz/CrConnect/* app/code/community/Conlabz/CrConnect/
 app/design/adminhtml/default/default/template/crconnect/* app/design/frontend/default/default/template/crconnect/
 app/design/adminhtml/default/default/template/newsletter/* app/design/frontend/default/default/template/newsletter/
 app/design/frontend/base/default/layout/crconnect.xml app/design/frontend/default/default/layout/crconnect.xml
