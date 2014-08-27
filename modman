@@ -1,10 +1,10 @@
 app/etc/modules/CleverReach_CrConnect.xml app/etc/modules/CleverReach_CrConnect.xml
 app/etc/modules/Conlabz_CrConnect.xml app/etc/modules/Conlabz_CrConnect.xml
 app/code/community/Conlabz/CrConnect/* app/code/community/Conlabz/CrConnect/
-app/design/adminhtml/default/default/template/crconnect/* app/design/frontend/default/default/template/crconnect/
-app/design/adminhtml/default/default/template/newsletter/* app/design/frontend/default/default/template/newsletter/
-app/design/frontend/base/default/layout/crconnect.xml app/design/frontend/default/default/layout/crconnect.xml
-app/design/frontend/base/default/template/crconnect/* app/design/frontend/default/default/template/crconnect/
+app/design/adminhtml/default/default/template/crconnect/system/config/form/field/array_groups.phtml app/design/adminhtml/default/default/template/crconnect/system/config/form/field/array_groups.phtml
+app/design/adminhtml/default/default/template/newsletter/subscriber/listcleverreach.phtml app/design/adminhtml/default/default/template/newsletter/subscriber/listcleverreach.phtml
+app/design/frontend/base/default/layout/crconnect.xml app/design/frontend/base/default/layout/crconnect.xml
+app/design/frontend/base/default/template/crconnect/* app/design/frontend/base/default/template/crconnect/
 app/locale/de_DE/Conlabz_CleverReach.csv app/locale/de_DE/Conlabz_CleverReach.csv
 app/locale/en_US/Conlabz_CleverReach.csv app/locale/en_US/Conlabz_CleverReach.csv
 skin/adminhtml/default/default/images/cleverreach/* app/skin/adminhtml/default/default/images/cleverreach/
